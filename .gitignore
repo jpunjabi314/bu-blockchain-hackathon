@@ -1,0 +1,9 @@
+# Node.js dependencies
+node_modules/
+
+# Hardhat build files
+cache/
+artifacts/
+
+# Security - NEVER commit private keys
+.env
