@@ -1,7 +1,7 @@
 # Group Savings Pool Smart Contract
 
 This is a simple smart contract that allows a group of participants
-to pool funds for a shared goal.
+to pool funds during trips.
 
 ## How to Use
 
